@@ -1,11 +1,6 @@
 <!---ESTE ARQUIVO É PARA CONFIGURAR SEU PERFIL DO GITHUB, PREENCHA COM SEUS DADOS. Para que ele seja visto como seu perfil, é preciso criar um repositório público com o seu nome de usuário e salvar com o nome README.md--->
 <!---SEUNOME--->
-<div dsplay="inline-block">
-<h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
-Bem vindos ao meu resposítório Github!
-<h4>Eu sou o Marcus</h4> 
-<h1 align="center">Seu nome </h1>
-  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C69FF&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Marcus;Bem+vindos+ao+meu+reposit%C3%B3rio+GitHub!" alt="Typing SVG" /></a>
 
 <!---APRESENTAÇÃO--->  
 <div display="block">

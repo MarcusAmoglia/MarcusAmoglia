@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C69FF&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Marcus;Bem+vindos+ao+meu+reposit%C3%B3rio+GitHub!" alt="Typing SVG" /></a>
 
+**`Desenvolvedora FullStack`**
+
 ### 👋 Sobre Mim
 - 🔭 Atualmente estou participando da residência de software da **Brisa**, período de 6 meses.
 - 🎓 Estudante de Engenharia de Software.
@@ -37,7 +39,7 @@
 ### 📊 Minhas Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/MarcusAmoglia">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcus&layout=compact&langs_count=6&theme=algolia&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcusAmoglia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcusAmoglia&layout=compact&langs_count=6&theme=algolia&hide=html,css"/>
   </a>
 </div>

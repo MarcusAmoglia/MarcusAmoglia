@@ -12,7 +12,8 @@
 <br>
 
 ### 📫 Conecte-se Comigo
-<a href="https://www.linkedin.com/in/marcus-amoglia-464071361" target="_blank">
+
+<a href="https://www.linkedin.com/in/marcus-amoglia-464071361" target="_blank" rel="noopener noreferrer">
   <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 

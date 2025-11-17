@@ -46,7 +46,7 @@
 <div align="left">
   <a href="https://github.com/MarcusAmoglia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusAmoglia&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcusAmoglia&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusAmoglia&stats_format=bytes"/>
   </a>
 </p>
 <p align="center">

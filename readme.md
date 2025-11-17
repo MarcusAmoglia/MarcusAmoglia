@@ -39,7 +39,6 @@
 ### 📊 Minhas Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/MarcusAmoglia">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcusAmoglia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcusAmoglia&layout=compact&langs_count=6&theme=algolia&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
   </a>
 </div>

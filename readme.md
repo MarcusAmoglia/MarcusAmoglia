@@ -47,4 +47,8 @@
   <a href="https://github.com/MarcusAmoglia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusAmoglia&show_icons=true&theme=transparent"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusAmoglia&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph"/>
+</p>
 </div>

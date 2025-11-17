@@ -37,7 +37,7 @@
 <br>
 
 ### 📊 Minhas Estatísticas do GitHub
-<div align="center">
+<div align="left">
   <a href="https://github.com/MarcusAmoglia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusAmoglia&show_icons=true&theme=transparent"/>
   </a>

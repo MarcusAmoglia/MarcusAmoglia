@@ -28,7 +28,7 @@
 
 <br>
 
-### 🌱 Foco de Estudo
+### 🌱 Estudando Atualmente
 <div display="block">
   <code><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/></code>
   <code><img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="40" height="40"/></code>

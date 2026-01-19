@@ -52,7 +52,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusAmoglia&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph"/>
 </p>
 </div>
-### 🐍 Jogo da Cobrinha de Contribuições
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MarcusAmoglia/MarcusAmoglia/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+

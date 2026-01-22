@@ -2,6 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
+🌐 Portfólio Online  
+Projetos, habilidades e aplicações práticas  
+https://marcusamoglia.github.io
+
 ### 👋 Sobre Mim
 - 🔭 Atualmente estou participando da residência de software da **Brisa**, período de 6 meses.
 - 🎓 Estudante de Engenharia de Software.
